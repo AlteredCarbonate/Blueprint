@@ -1,24 +1,11 @@
-# blueprint
+# Blueprint
+This Project is for those, you prefer Visual Programing.<br>
+It serves the best on the fly Editor you could have ever wished for.
 
-## Project setup
-```
-npm install
-```
+No knowledge required!
+Designed for JavaScript & tuned for alt:V
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Powered By
+VueJS <br>
+TypeScript <br>
+BakalvaJS
